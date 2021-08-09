@@ -1,0 +1,1 @@
+# ajax-rails6-demo-app
